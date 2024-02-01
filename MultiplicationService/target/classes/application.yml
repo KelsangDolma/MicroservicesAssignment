@@ -1,0 +1,9 @@
+
+server:
+  port: 1111
+
+# application.yml
+spring:
+  application:
+    name: "multiply-service"
+
